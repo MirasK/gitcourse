@@ -1,1 +1,3 @@
-new file 2
+new file 2The current date is: Wed 04/01/2020 
+Enter the new date: (mm-dd-yy) The current date is: Wed 04/01/2020 
+Enter the new date: (mm-dd-yy) 
