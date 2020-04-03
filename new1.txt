@@ -1,3 +1,4 @@
 dfagadgfasf
 The current date is: Wed 04/01/2020 
+Enter the new date: (mm-dd-yy) The current date is: Fri 04/03/2020 
 Enter the new date: (mm-dd-yy) 
